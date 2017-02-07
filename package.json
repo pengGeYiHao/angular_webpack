@@ -1,5 +1,5 @@
 {
-  "name": "angular-cli",
+  "name": "angular__cli",
   "version": "1.0.0",
   "main": "webpack.config.js",
   "scripts": {
@@ -40,5 +40,13 @@
     "webpack": "^1.14.0",
     "webpack-dev-server": "^1.16.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengGeYiHao/angular_webpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pengGeYiHao/angular_webpack/issues"
+  },
+  "homepage": "https://github.com/pengGeYiHao/angular_webpack#readme",
   "description": ""
 }

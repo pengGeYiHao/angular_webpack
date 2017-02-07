@@ -17,8 +17,5 @@ myProvider.provider('dataService',function (){       //dataService为服务名
         }
     }
 })
-// myProvider.config(function (dataServiceProvider){         //记住一定要是自己定义的服务器名加Provider后缀
-//     console.log('aaaaaaa')
-//     dataServiceProvider.setUrl('太水了')
-// });
+
 module.exports=myProvider.name
