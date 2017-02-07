@@ -1,0 +1,8 @@
+ @font-face{
+       font-family: 'maozedong';
+   }
+ body{
+      font-size: 24pt;
+      color: #fff;
+      font-family: 'maozedong';
+   }
